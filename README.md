@@ -4,6 +4,7 @@
 
 ## Add an employee
 <img width="622" alt="image" src="https://github.com/QiaoqingWu/Employee-CRUD-management-system-using-Thymeleaf/assets/100981450/9037aa1b-6d89-4fc7-b8d7-68b73aef2817">
+
 The "Save" button will redirect to the employee list page
 
 ## Update an employee
